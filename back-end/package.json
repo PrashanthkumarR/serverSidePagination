@@ -1,0 +1,24 @@
+{
+  "name": "serverSidePagination",
+  "version": "1.0.0",
+  "description": "server-side pagination in Angular 8 with a Node.js backend API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashanthkumarR/serverSidePagination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashanthkumarR/serverSidePagination/issues"
+  },
+  "homepage": "https://github.com/PrashanthkumarR/serverSidePagination#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jw-paginate": "^1.0.4"
+  }
+}
